@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@codesprint/common": "^1.0.23",
+    "@codesprint/common": "^1.0.4",
     "@types/bull": "^3.12.2",
     "bull": "^3.13.0",
     "node-nats-streaming": "^0.2.6",
